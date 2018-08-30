@@ -13,7 +13,7 @@ using Microsoft.Extensions.Options;
 
 namespace CoreItemAPI
 {
-    public class Startup
+    public class Startup //http://www.talkingdotnet.com/create-sqlite-db-entity-framework-core-code-first/
     {
         public Startup(IConfiguration configuration)
         {
