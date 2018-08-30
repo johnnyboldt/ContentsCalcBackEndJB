@@ -95,3 +95,12 @@ D:\demo\ContentsCalcBackEndJB\ItemAPI\ItemAPI\obj\Debug\ItemAPI.csproj.CoreCompi
 D:\demo\ContentsCalcBackEndJB\ItemAPI\ItemAPI\obj\Debug\ItemAPI.csproj.CopyComplete
 D:\demo\ContentsCalcBackEndJB\ItemAPI\ItemAPI\obj\Debug\ItemAPI.dll
 D:\demo\ContentsCalcBackEndJB\ItemAPI\ItemAPI\obj\Debug\ItemAPI.pdb
+D:\demo\ContentsCalcBackEndJB\ItemAPI\ItemAPI\bin\EntityFramework.dll
+D:\demo\ContentsCalcBackEndJB\ItemAPI\ItemAPI\bin\EntityFramework.SqlServer.dll
+D:\demo\ContentsCalcBackEndJB\ItemAPI\ItemAPI\bin\System.Data.SQLite.dll
+D:\demo\ContentsCalcBackEndJB\ItemAPI\ItemAPI\bin\System.Data.SQLite.EF6.dll
+D:\demo\ContentsCalcBackEndJB\ItemAPI\ItemAPI\bin\System.Data.SQLite.Linq.dll
+D:\demo\ContentsCalcBackEndJB\ItemAPI\ItemAPI\bin\EntityFramework.xml
+D:\demo\ContentsCalcBackEndJB\ItemAPI\ItemAPI\bin\EntityFramework.SqlServer.xml
+D:\demo\ContentsCalcBackEndJB\ItemAPI\ItemAPI\bin\System.Data.SQLite.xml
+D:\demo\ContentsCalcBackEndJB\ItemAPI\ItemAPI\bin\System.Data.SQLite.dll.config
