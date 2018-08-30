@@ -1,4 +1,6 @@
-﻿using System;
+﻿using ItemAPI.Models;
+using Newtonsoft.Json;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net;
@@ -22,8 +24,13 @@ namespace ItemAPI.Controllers
         }
 
         // POST api/values
-        public void Post([FromBody]string value)
+        //TODO: asnyc and await;
+        [HttpPost]
+        public void Post(HttpRequestMessage request)
         {
+            string jsonContent = request.Content.ReadAsStringAsync().Result;
+            var model = JsonConvert.DeserializeObject<ItemAPIModel>(jsonContent);
+
         }
 
         // PUT api/values/5
