@@ -11,6 +11,8 @@ namespace ItemAPI.Entities
     public class Item
     {
         [Required]
+        public Guid Id { get; set; }
+        [Required]
         public string name { get; set; }
         [Required]
         public string value { get; set; }

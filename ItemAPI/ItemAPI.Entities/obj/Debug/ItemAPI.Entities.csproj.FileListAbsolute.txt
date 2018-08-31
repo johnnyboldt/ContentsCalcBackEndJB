@@ -16,3 +16,17 @@ D:\demo\ContentsCalcBackEndJB\ItemAPI\ItemAPI.Entities\obj\Debug\ItemAPI.Entitie
 D:\demo\ContentsCalcBackEndJB\ItemAPI\ItemAPI.Entities\obj\Debug\ItemAPI.Entities.dll
 D:\demo\ContentsCalcBackEndJB\ItemAPI\ItemAPI.Entities\obj\Debug\ItemAPI.Entities.pdb
 D:\demo\ContentsCalcBackEndJB\ItemAPI\ItemAPI.Entities\bin\Debug\SQLite.CodeFirst.dll
+C:\Temp\ContentsCalcBackEndJB\ItemAPI\ItemAPI.Entities\bin\Debug\ItemAPI.Entities.dll.config
+C:\Temp\ContentsCalcBackEndJB\ItemAPI\ItemAPI.Entities\bin\Debug\ItemAPI.Entities.dll
+C:\Temp\ContentsCalcBackEndJB\ItemAPI\ItemAPI.Entities\bin\Debug\ItemAPI.Entities.pdb
+C:\Temp\ContentsCalcBackEndJB\ItemAPI\ItemAPI.Entities\bin\Debug\EntityFramework.dll
+C:\Temp\ContentsCalcBackEndJB\ItemAPI\ItemAPI.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Temp\ContentsCalcBackEndJB\ItemAPI\ItemAPI.Entities\bin\Debug\EntityFramework.xml
+C:\Temp\ContentsCalcBackEndJB\ItemAPI\ItemAPI.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Temp\ContentsCalcBackEndJB\ItemAPI\ItemAPI.Entities\obj\Debug\ItemAPI.Entities.csprojAssemblyReference.cache
+C:\Temp\ContentsCalcBackEndJB\ItemAPI\ItemAPI.Entities\obj\Debug\ItemAPI.Entities.csproj.CoreCompileInputs.cache
+C:\Temp\ContentsCalcBackEndJB\ItemAPI\ItemAPI.Entities\obj\Debug\ItemAPI.Entities.csproj.CopyComplete
+C:\Temp\ContentsCalcBackEndJB\ItemAPI\ItemAPI.Entities\obj\Debug\ItemAPI.Entities.dll
+C:\Temp\ContentsCalcBackEndJB\ItemAPI\ItemAPI.Entities\obj\Debug\ItemAPI.Entities.pdb
+C:\Temp\ContentsCalcBackEndJB\ItemAPI\ItemAPI.Entities\obj\Debug\ItemAPI.Entities.Migrations.AddItemEntity.resources
+C:\Temp\ContentsCalcBackEndJB\ItemAPI\ItemAPI.Entities\obj\Debug\ItemAPI.Entities.csproj.GenerateResource.cache

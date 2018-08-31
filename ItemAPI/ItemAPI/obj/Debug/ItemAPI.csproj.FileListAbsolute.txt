@@ -168,9 +168,6 @@ C:\Temp\ContentsCalcBackEndJB\ItemAPI\ItemAPI\bin\Microsoft.AspNet.TelemetryCorr
 C:\Temp\ContentsCalcBackEndJB\ItemAPI\ItemAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Temp\ContentsCalcBackEndJB\ItemAPI\ItemAPI\bin\Microsoft.Web.Infrastructure.dll
 C:\Temp\ContentsCalcBackEndJB\ItemAPI\ItemAPI\bin\Newtonsoft.Json.dll
-C:\Temp\ContentsCalcBackEndJB\ItemAPI\ItemAPI\bin\System.Data.SQLite.dll
-C:\Temp\ContentsCalcBackEndJB\ItemAPI\ItemAPI\bin\System.Data.SQLite.EF6.dll
-C:\Temp\ContentsCalcBackEndJB\ItemAPI\ItemAPI\bin\System.Data.SQLite.Linq.dll
 C:\Temp\ContentsCalcBackEndJB\ItemAPI\ItemAPI\bin\System.Diagnostics.DiagnosticSource.dll
 C:\Temp\ContentsCalcBackEndJB\ItemAPI\ItemAPI\bin\System.Net.Http.Formatting.dll
 C:\Temp\ContentsCalcBackEndJB\ItemAPI\ItemAPI\bin\System.Web.Helpers.dll
@@ -185,8 +182,6 @@ C:\Temp\ContentsCalcBackEndJB\ItemAPI\ItemAPI\bin\System.Web.WebPages.Razor.dll
 C:\Temp\ContentsCalcBackEndJB\ItemAPI\ItemAPI\bin\WebGrease.dll
 C:\Temp\ContentsCalcBackEndJB\ItemAPI\ItemAPI\bin\EntityFramework.xml
 C:\Temp\ContentsCalcBackEndJB\ItemAPI\ItemAPI\bin\EntityFramework.SqlServer.xml
-C:\Temp\ContentsCalcBackEndJB\ItemAPI\ItemAPI\bin\System.Data.SQLite.xml
-C:\Temp\ContentsCalcBackEndJB\ItemAPI\ItemAPI\bin\System.Data.SQLite.dll.config
 C:\Temp\ContentsCalcBackEndJB\ItemAPI\ItemAPI\bin\Newtonsoft.Json.xml
 C:\Temp\ContentsCalcBackEndJB\ItemAPI\ItemAPI\bin\System.Net.Http.Formatting.xml
 C:\Temp\ContentsCalcBackEndJB\ItemAPI\ItemAPI\bin\System.Web.Helpers.xml
@@ -210,3 +205,6 @@ C:\Temp\ContentsCalcBackEndJB\ItemAPI\ItemAPI\obj\Debug\ItemAPI.csproj.CoreCompi
 C:\Temp\ContentsCalcBackEndJB\ItemAPI\ItemAPI\obj\Debug\ItemAPI.csproj.CopyComplete
 C:\Temp\ContentsCalcBackEndJB\ItemAPI\ItemAPI\obj\Debug\ItemAPI.dll
 C:\Temp\ContentsCalcBackEndJB\ItemAPI\ItemAPI\obj\Debug\ItemAPI.pdb
+C:\Temp\ContentsCalcBackEndJB\ItemAPI\ItemAPI\bin\ItemAPI.Entities.dll
+C:\Temp\ContentsCalcBackEndJB\ItemAPI\ItemAPI\bin\ItemAPI.Entities.pdb
+C:\Temp\ContentsCalcBackEndJB\ItemAPI\ItemAPI\bin\ItemAPI.Entities.dll.config

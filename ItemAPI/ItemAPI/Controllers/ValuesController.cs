@@ -1,4 +1,5 @@
-﻿using ItemAPI.Models;
+﻿using ItemAPI.Entities;
+using ItemAPI.Models;
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
@@ -30,14 +31,15 @@ namespace ItemAPI.Controllers
         {
             string jsonContent = request.Content.ReadAsStringAsync().Result;
             var model = JsonConvert.DeserializeObject<ItemAPIModel>(jsonContent);
-
+            using (var context = new ItemContext())
+            {
+                var items = context.Items.ToList();
+                context.Items.Add(new Item { Id = Guid.NewGuid(), name = model.name, value = model.value, category = model.category });
+                context.SaveChanges(); //Todo async?
+            }
         }
 
-        // PUT api/values/5
-        public void Put(int id, [FromBody]string value)
-        {
-        }
-
+        //Either add Id or just delete first found
         // DELETE api/values/5
         public void Delete(int id)
         {
