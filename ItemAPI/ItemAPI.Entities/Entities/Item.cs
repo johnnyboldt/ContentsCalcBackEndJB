@@ -13,10 +13,10 @@ namespace ItemAPI.Entities
         [Required]
         public Guid Id { get; set; }
         [Required]
-        public string name { get; set; }
+        public string Name { get; set; }
         [Required]
-        public string value { get; set; }
+        public double Value { get; set; }
         [Required]
-        public string category { get; set; }
+        public string Category { get; set; }
     }
 }

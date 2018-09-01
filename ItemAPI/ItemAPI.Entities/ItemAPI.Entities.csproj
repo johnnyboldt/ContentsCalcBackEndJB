@@ -56,6 +56,26 @@
     <Compile Include="Migrations\201808310430581_AddItemEntity.Designer.cs">
       <DependentUpon>201808310430581_AddItemEntity.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201809010111428_AddColumnsAndStandardizeItemEntity.cs" />
+    <Compile Include="Migrations\201809010111428_AddColumnsAndStandardizeItemEntity.Designer.cs">
+      <DependentUpon>201809010111428_AddColumnsAndStandardizeItemEntity.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201809010200524_NullableDateDeletedItemEntity.cs" />
+    <Compile Include="Migrations\201809010200524_NullableDateDeletedItemEntity.Designer.cs">
+      <DependentUpon>201809010200524_NullableDateDeletedItemEntity.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201809010201363_NullableDateDeletedItemEntity1.cs" />
+    <Compile Include="Migrations\201809010201363_NullableDateDeletedItemEntity1.Designer.cs">
+      <DependentUpon>201809010201363_NullableDateDeletedItemEntity1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201809010301175_UpdatingItemEntity.cs" />
+    <Compile Include="Migrations\201809010301175_UpdatingItemEntity.Designer.cs">
+      <DependentUpon>201809010301175_UpdatingItemEntity.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201809010309574_RemovingIndexLogicItemEntity.cs" />
+    <Compile Include="Migrations\201809010309574_RemovingIndexLogicItemEntity.Designer.cs">
+      <DependentUpon>201809010309574_RemovingIndexLogicItemEntity.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -69,6 +89,21 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\201808310430581_AddItemEntity.resx">
       <DependentUpon>201808310430581_AddItemEntity.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201809010111428_AddColumnsAndStandardizeItemEntity.resx">
+      <DependentUpon>201809010111428_AddColumnsAndStandardizeItemEntity.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201809010200524_NullableDateDeletedItemEntity.resx">
+      <DependentUpon>201809010200524_NullableDateDeletedItemEntity.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201809010201363_NullableDateDeletedItemEntity1.resx">
+      <DependentUpon>201809010201363_NullableDateDeletedItemEntity1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201809010301175_UpdatingItemEntity.resx">
+      <DependentUpon>201809010301175_UpdatingItemEntity.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201809010309574_RemovingIndexLogicItemEntity.resx">
+      <DependentUpon>201809010309574_RemovingIndexLogicItemEntity.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

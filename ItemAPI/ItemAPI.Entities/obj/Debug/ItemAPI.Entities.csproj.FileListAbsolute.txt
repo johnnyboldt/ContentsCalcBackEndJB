@@ -30,3 +30,8 @@ C:\Temp\ContentsCalcBackEndJB\ItemAPI\ItemAPI.Entities\obj\Debug\ItemAPI.Entitie
 C:\Temp\ContentsCalcBackEndJB\ItemAPI\ItemAPI.Entities\obj\Debug\ItemAPI.Entities.pdb
 C:\Temp\ContentsCalcBackEndJB\ItemAPI\ItemAPI.Entities\obj\Debug\ItemAPI.Entities.Migrations.AddItemEntity.resources
 C:\Temp\ContentsCalcBackEndJB\ItemAPI\ItemAPI.Entities\obj\Debug\ItemAPI.Entities.csproj.GenerateResource.cache
+C:\Temp\ContentsCalcBackEndJB\ItemAPI\ItemAPI.Entities\obj\Debug\ItemAPI.Entities.Migrations.AddColumnsAndStandardizeItemEntity.resources
+C:\Temp\ContentsCalcBackEndJB\ItemAPI\ItemAPI.Entities\obj\Debug\ItemAPI.Entities.Migrations.NullableDateDeletedItemEntity.resources
+C:\Temp\ContentsCalcBackEndJB\ItemAPI\ItemAPI.Entities\obj\Debug\ItemAPI.Entities.Migrations.NullableDateDeletedItemEntity1.resources
+C:\Temp\ContentsCalcBackEndJB\ItemAPI\ItemAPI.Entities\obj\Debug\ItemAPI.Entities.Migrations.UpdatingItemEntity.resources
+C:\Temp\ContentsCalcBackEndJB\ItemAPI\ItemAPI.Entities\obj\Debug\ItemAPI.Entities.Migrations.RemovingIndexLogicItemEntity.resources

@@ -10,5 +10,6 @@ namespace ItemAPI.Models
         public string name;
         public string value;
         public string category;
+        public string operation;
     }
 }
