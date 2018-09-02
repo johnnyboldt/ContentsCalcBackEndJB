@@ -18,5 +18,7 @@ namespace ItemAPI.Entities
         public double Value { get; set; }
         [Required]
         public string Category { get; set; }
+        [Required]
+        public DateTime DateAdded { get; set; }
     }
 }
