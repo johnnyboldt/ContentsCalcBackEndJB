@@ -52,6 +52,10 @@
   <ItemGroup>
     <Compile Include="Entities\Item.cs" />
     <Compile Include="ItemContext.cs" />
+    <Compile Include="Migrations\201809020500577_AddItemEntity.cs" />
+    <Compile Include="Migrations\201809020500577_AddItemEntity.Designer.cs">
+      <DependentUpon>201809020500577_AddItemEntity.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -61,6 +65,11 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Database\" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201809020500577_AddItemEntity.resx">
+      <DependentUpon>201809020500577_AddItemEntity.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
