@@ -10,7 +10,7 @@ using System.Web.Http;
 
 namespace ItemAPI.Controllers
 {
-    // To consider: refactor out the Add/Delete/Get items into their own class and inject/unit-test
+    // To consider: refactor out the Add/Delete/Get items into command/query classes and inject/unit-test
     public class ValuesController : ApiController
     {
         const string AddCommand = "add";
@@ -69,10 +69,10 @@ namespace ItemAPI.Controllers
             using (var context = new ItemContext())
             {
                 // Note: if there are duplicate items entered in the UI
-                // then we can not know when item it relates to in the DB without an ID.
-                // So we just delete the first one found.
+                // then we can not know which item it relates to in the DB without an ID.
+                // So we just delete the first one found, and order is not preserved in this case.
                 // To resolve this, we could add a non-visible identifier in the UI and
-                // add it to the REST methods.
+                // add it to the REST methods/ItemEntity as well.
                 var valueAsDouble = Convert.ToDouble(model.value);
                 var item = context.Items.FirstOrDefault(i => i.Name == model.name && //Delete the First one found
                                                     i.Value == valueAsDouble &&
